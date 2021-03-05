@@ -507,44 +507,44 @@ footer{
 
 .dish-1{
     grid-area: dish-1;
-    background-image: url(/the-rosa-master/the-rosa/images/dish1.jpg);
+    background-image: url(../images/dish1.jpg);
     min-height: 51.5rem;
 }
 
 .dish-2{
     grid-area: dish-2;
-    background-image: url(/the-rosa-master/the-rosa/images/dish2.jpg);
+    background-image: url(../images/dish2.jpg);
 }
 
 .dish-3{
     grid-area: dish-3;
-    background-image: url(/the-rosa-master/the-rosa/images/dish3.jpg);
+    background-image: url(../images/dish3.jpg);
 }
 
 .dish-4{
     grid-area: dish-4;
-    background-image: url(/the-rosa-master/the-rosa/images/dish4.jpg);
+    background-image: url(../images/dish4.jpg);
 }
 
 .dish-5{
     grid-area: dish-5;
-    background-image: url(/the-rosa-master/the-rosa/images/dish5.jpg);
+    background-image: url(../images/dish5.jpg);
 }
 
 .dish-6{
     grid-area: dish-6;
-    background-image: url(/the-rosa-master/the-rosa/images/dish6.jpg);
+    background-image: url(../images/dish6.jpg);
     min-height: 51.5rem;
 }
 
 .dish-7{
     grid-area: dish-7;
-    background-image: url(/the-rosa-master/the-rosa/images/dish7.jpg);
+    background-image: url(../images/dish7.jpg);
 }
 
 .dish-8{
     grid-area: dish-8;
-    background-image: url(/the-rosa-master/the-rosa/images/dish8.jpg);
+    background-image: url(../images/dish8.jpg);
 }
 
 /*News Styles*/
